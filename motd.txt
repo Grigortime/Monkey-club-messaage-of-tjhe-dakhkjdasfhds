@@ -1,1 +1,1 @@
-Hello monkeys! I fixed the finer collidors and added the ID tab and the troubleshoting tab.
+Hello monkeys! I fixed some bugs.
