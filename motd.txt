@@ -1,2 +1,7 @@
-Hello monkeys! Ohhh it's spooky month! Get your spooky cosmtics and have [REDACTED] fun!
-I have added the possibility to buy club rocks (meta needs to allow the game to give players the possibility so it will take a while untill meta allows it)!
+Hello monkeys! This is what has got added:
+-Pumpkin got fixed.
+-Moderators can now enable cosmetics in the wardrobe.
+-Added a kick hammer.
+-Added a gun cosmetic (can't shoot(I am working on it)).
+-Added an axe cosmetic.
+-Upgraded the anti cheat.
