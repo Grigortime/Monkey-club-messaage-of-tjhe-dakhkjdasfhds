@@ -5,3 +5,4 @@ Hello monkeys! This is what has got added:
 -Added a gun cosmetic (can't shoot(I am working on it)).
 -Added an axe cosmetic.
 -Upgraded the anti cheat.
+-Fixed the wardrobe and the actual game.
