@@ -7,3 +7,6 @@ Hello monkeys! This is what has got added:
 -Upgraded the anti cheat.
 -Fixed the wardrobe and the actual game.
 -Gave everyone every non limited items.
+I am working on:
+-Fixing the right hand cosmetics.
+-And some background fixes.
