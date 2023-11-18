@@ -1,3 +1,5 @@
 Hello monkeys!
--Right hand cosmetics are fixed now.
--Some backgound issues have been fixed.
+This is what has been added:
+-The owner badge is fixed now (hopefully),
+-There are new computers,
+-And some background stuff has been fixed.
