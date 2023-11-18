@@ -1,5 +1,7 @@
 Hello monkeys!
 This is what has been added:
+-The game is back up!
 -The owner badge is fixed now (hopefully),
 -There are new computers,
+-Reduced playfab not loading,
 -And some background stuff has been fixed.
