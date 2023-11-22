@@ -5,4 +5,5 @@ This is what has been added:
 -The owner badge is fixed now (hopefully),
 -There are new computers,
 -Reduced playfab not loading,
+-I foyu hear som erandom sound in shop it is the mmoderator tv so it will be fixed.
 -And some background stuff has been fixed.
