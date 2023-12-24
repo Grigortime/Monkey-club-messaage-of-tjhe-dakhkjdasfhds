@@ -1,9 +1,7 @@
-Hello monkeys!
-This is what has been added:
--The game is back up!
--I fixed the crashing,
--The owner badge is fixed now (hopefully),
--There are new computers,
--Reduced playfab not loading,
--I foyu hear som erandom sound in shop it is the mmoderator tv so it will be fixed.
--And some background stuff has been fixed.
+Cristmas is here!
+I added:
+-Better anticheats,
+-worked on horror,
+-worked REALLY hard on the graphics.
+Zero Gravity is bugged out but it will be fixed!
+THE TOS AND THE PRIVACY POLICY HAVE BEEN EDITED READ THEM!!!!!
