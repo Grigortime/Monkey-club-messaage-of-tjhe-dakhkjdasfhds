@@ -1,7 +1,8 @@
 Cristmas is here!
-I added:
--Better anticheats,
+I:
+-fixed map loaders,
+-added etter anticheats,
 -worked on horror,
 -worked REALLY hard on the graphics.
 Zero Gravity is bugged out but it will be fixed!
-THE TOS AND THE PRIVACY POLICY HAVE BEEN EDITED READ THEM!!!!!
+NAMES ARE STILL BUGGED OUT PLEASE WAIT FOR THE FIX UPDATE!
