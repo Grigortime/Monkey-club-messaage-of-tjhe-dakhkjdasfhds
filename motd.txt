@@ -1,4 +1,8 @@
-Got a bit lazy with this update. Sorry.
-I kinda fixed water/zero grav.
-I fixed the ban hammer.
-And remade the monster.
+Big update:
+-Remade lighing,
+-(I'm maybe working on something called freeze tag >:) )
+-Check the horror entrance,
+-Hopefully fixed water,
+-Hopefully fixed ZeroGrav,
+
+<color=red>New cosmetics coming soon!</color>
