@@ -1,10 +1,5 @@
-Big update:
--Remade lighing,
--(I'm maybe working on something called freeze tag >:) )
--Check the horror entrance,
--Hopefully fixed water,
--Hopefully fixed ZeroGrav,
--FINALLY FIXED NAMES.
+Small update:
+-Fixed Kick Hammer.
 
 <color=red>New cosmetics coming soon!</color>
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
