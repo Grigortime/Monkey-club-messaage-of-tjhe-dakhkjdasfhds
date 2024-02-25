@@ -1,5 +1,5 @@
 Small update:
--Fixed Kick Hammer.
+-Added a moderator menu.
 
 <color=red>New cosmetics coming soon!</color>
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
