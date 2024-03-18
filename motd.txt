@@ -1,5 +1,7 @@
 Small update:
--Working on a moderator menu.
+-Added a moderator menu.
+-Added a shop keeper.
+-Some more stuff.
 
 <color=red>New cosmetics coming soon!</color>
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
