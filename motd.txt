@@ -1,6 +1,7 @@
 Small update:
 -Added a moderator menu.
 -Added a shop keeper.
+-Your ingame name is now your oculus username.
 -Some more stuff.
 
 <color=red>New cosmetics coming soon!</color>
