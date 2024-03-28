@@ -1,8 +1,6 @@
 Small update:
--Fixed some stuff in the moderator menu.
--Your ingame name is now your oculus username.
--(Horror mode will soon be ready for beta testers!).
--Some more stuff.
+-Added a Developer cosmetic,
+-Added a Community Manager cosmetic.
 
 <color=red>New cosmetics coming soon!</color>
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
