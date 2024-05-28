@@ -1,5 +1,8 @@
 Small update:
--Hopyfully fixed servers.
+-Hopyfully fixed servers,
+-Added new cosmetics,
+-Upgraded AntiCheat,
+-Trying to fix some other stuff.
 
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
 <color=blue>JMANCURLY MIGHT PLAY THIS GAME!!!!!!</color>
