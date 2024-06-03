@@ -1,8 +1,8 @@
 Small update:
+-Added/Upgraded Oculus and PlayFab authentication,
 -Hopyfully fixed servers,
 -Added new cosmetics,
--Upgraded AntiCheat,
--Trying to fix some other stuff.
+-Upgraded AntiCheat.
 
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
 <color=blue>JMANCURLY MIGHT PLAY THIS GAME!!!!!!</color>
