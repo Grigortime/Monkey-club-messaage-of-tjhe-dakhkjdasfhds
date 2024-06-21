@@ -1,8 +1,8 @@
-Small update:
--Added/Upgraded Oculus and PlayFab authentication,
--Hopyfully fixed servers,
--Added new cosmetics,
--Upgraded AntiCheat.
+BIG FIX:
+-Added Colors,
+-FINALY fixed servers,
+-Fixed small bugs,
+-Added arms to the player model <color=red>rip</color>.
 
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
 <color=blue>JMANCURLY MIGHT PLAY THIS GAME!!!!!!</color>
