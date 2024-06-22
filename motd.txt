@@ -3,7 +3,7 @@ BIG FIX:
 -Added a leveling system,
 -FINALY fixed servers,
 -Fixed small bugs,
--Added arms to the player model <color=red>rip</color>.
+-Added arms to the player model <color=red>rip old player model</color>.
 
 <color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
 <color=blue>JMANCURLY MIGHT PLAY THIS GAME!!!!!!</color>
