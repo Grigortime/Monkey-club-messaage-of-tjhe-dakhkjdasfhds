@@ -1,5 +1,6 @@
 BIG FIX:
 -Added Colors,
+-Added a leveling system,
 -FINALY fixed servers,
 -Fixed small bugs,
 -Added arms to the player model <color=red>rip</color>.
