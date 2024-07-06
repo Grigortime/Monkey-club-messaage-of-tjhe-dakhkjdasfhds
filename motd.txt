@@ -1,9 +1,6 @@
-BIG FIX:
--Added Colors,
--Added a leveling system,
--FINALY fixed servers,
--Fixed small bugs,
--Added arms to the player model <color=red>rip old player model</color>.
+  Small fix:
+- Worked on tag.
+- Upgraded the AntiCheat.
 
-<color=red>I UPDATED THE PRIVACY POLICY! PLEASE READ IT!</color>
-<color=blue>JMANCURLY MIGHT PLAY THIS GAME!!!!!!</color>
+<color=red>PLEASE READ THE PRIVACY POLICY!</color>
+<color=blue>NOT_LASER MIGHT PLAY THIS GAME!!!!!!</color>
