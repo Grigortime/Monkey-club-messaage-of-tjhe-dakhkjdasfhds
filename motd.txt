@@ -1,6 +1,5 @@
   Small fix:
-- Worked on tag.
-- Upgraded the AntiCheat.
+- Did some server stuff
 
 <color=red>PLEASE READ THE PRIVACY POLICY!</color>
 <color=blue>NOT_LASER MIGHT PLAY THIS GAME!!!!!!</color>
