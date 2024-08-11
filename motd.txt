@@ -1,5 +1,5 @@
   Small fix:
-- Did some server stuff
+- Lag fixes and optimizations.
 
 <color=red>PLEASE READ THE PRIVACY POLICY!</color>
 <color=blue>NOT_LASER MIGHT PLAY THIS GAME!!!!!!</color>
